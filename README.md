@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bigbabs
+- 👋 Hi, I’m Dauda.
 - 👀 I’m interested in Sports. Mostly Soccer, NBA and Tracks.
 - 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on any Project to boost my skills.
